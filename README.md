@@ -15,3 +15,14 @@ The primary goal of this project was to:
 - Propose practical insights and improvements based on empirical findings
 
 ---
+
+## 📚 Literature Review
+
+The research involved reviewing and synthesizing findings from **multiple peer-reviewed papers**, including:
+- Original Wasserstein GAN formulation
+- WGAN with Gradient Penalty (WGAN-GP)
+- Studies on mode collapse, Lipschitz constraints, and critic optimization
+
+This review informed the experimental design and evaluation strategy.
+
+---
