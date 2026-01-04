@@ -46,3 +46,12 @@ This review informed the experimental design and evaluation strategy.
 - Evaluated the impact of gradient penalty on training robustness
 
 ---
+
+## 📊 Key Findings
+
+- WGAN-based training demonstrated **more stable convergence** compared to vanilla GANs
+- Loss values exhibited **meaningful correlation with sample quality**
+- Gradient penalty significantly improved training reliability
+- Reduced sensitivity to hyperparameter variations
+
+---
