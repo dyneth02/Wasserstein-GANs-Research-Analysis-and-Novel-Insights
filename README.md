@@ -66,7 +66,7 @@ This review informed the experimental design and evaluation strategy.
 ---
 
 ![img_1](https://github.com/dyneth02/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/blob/main/screenshots/Screenshot%202026-01-05%20032639.png)
-![img_2](https://github.com/dyneth02/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/blob/main/screenshots/Screenshot%202026-01-05%20032639.png)
+![img_2](https://github.com/dyneth02/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/blob/main/screenshots/Screenshot%202026-01-05%20032700.png)
 ![img_3](https://github.com/dyneth02/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/blob/main/screenshots/Screenshot%202026-01-05%20032639.png)
 ![img_4](https://github.com/dyneth02/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/blob/main/screenshots/Screenshot%202026-01-05%20032639.png)
 ![img_5](https://github.com/dyneth02/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/blob/main/screenshots/Screenshot%202026-01-05%20032639.png)
