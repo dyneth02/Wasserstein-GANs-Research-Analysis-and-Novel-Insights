@@ -71,7 +71,7 @@ This review informed the experimental design and evaluation strategy.
 ![img_4](https://github.com/dyneth02/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/blob/main/screenshots/Screenshot%202026-01-05%20032746.png)
 ![img_5](https://github.com/dyneth02/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/blob/main/screenshots/Screenshot%202026-01-05%20032808.png)
 ![img_6](https://github.com/dyneth02/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/blob/main/screenshots/Screenshot%202026-01-05%20032842.png)
-![img_7](https://github.com/dyneth02/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/blob/main/screenshots/Screenshot%202026-01-05%20032639.png)
+![img_7](https://github.com/dyneth02/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/blob/main/screenshots/Screenshot%202026-01-05%20032851.png)
 ![img_8](https://github.com/dyneth02/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/blob/main/screenshots/Screenshot%202026-01-05%20032639.png)
 ![img_9](https://github.com/dyneth02/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/blob/main/screenshots/Screenshot%202026-01-05%20032639.png)
 ![img_10](https://github.com/dyneth02/Wasserstein-GANs-Research-Analysis-and-Novel-Insights/blob/main/screenshots/Screenshot%202026-01-05%20032639.png)
